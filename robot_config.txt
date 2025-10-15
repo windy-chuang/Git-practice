@@ -1,1 +1,2 @@
 sensor_range: 10
+motor_speed: 2.0
